@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<items>
-    <item>
+<plst>
+    <chanel>
         <title>Аватар: останній захисник</title>
-        <link>http://ashdi.vip/video23/1/new2/avatar.the.last.airbender_s1/avatar.the.last.airbender.2005.s01e01.720p.bdrip.h264hurtom_35559/hls/BKiPlHaPlPtdkgvhB4kh/index.m3u8</link>
-        <image>https://uakino.me/uploads/mini/serial/82/7e789bccfd7662a1606e3f87b2fa9c.webp</image>
-        <description>Мультсеріал Аватар: останній захисник</description>
-        <mediaType>video</mediaType>
-    </item>
-</items>
+        <stream_url>http://ashdi.vip/video23/1/new2/avatar.the.last.airbender_s1/avatar.the.last.airbender.2005.s01e01.720p.bdrip.h264hurtom_35559/hls/BKiPlHaPlPtdkgvhB4kh/index.m3u8</stream_url>
+        <logo_30x30>https://uakino.me/uploads/mini/serial/82/7e789bccfd7662a1606e3f87b2fa9c.webp</logo_30x30>
+        <desc>Мультсеріал Аватар: останній захисник</desc>
+    </chanel>
+</plst>
