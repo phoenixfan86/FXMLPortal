@@ -4,17 +4,18 @@
   "title": "Мій український портал",
   "typeList": "start",
   "channels": [
-    {
-      "title": "Аватар: останній захисник",
-      "infolink": "",
-      "description": "Фільм українською мовою",
-      "template": "$description</div>$title</div></div>",
+
+{
+      "title": "Электрический штат",
+      "infolink": "https://www.themoviedb.org/movie/777443",
+      "description": "6.6</span> фантастика</span> 2025</span>",
+      "template": "<div>$description</div><div>$title</div></div>",
       "position": "html",
       "br": "1",
-      "before": "",
+      "before": "<div>",
       "noaddbr": "1",
-      "playlist_url": "https://ashdi.vip/video23/1/new2/avatar.the.last.airbender_s1/avatar.the.last.airbender.2005.s01e01.720p.bdrip.h264hurtom_35559/hls/BKiPlHaPlPtdkgvhB4kh/index.m3u8",
-      "logo_30x30": "https://uakino.me/uploads/mini/serial/82/7e789bccfd7662a1606e3f87b2fa9c.webp"
-    },
+      "playlist_url": "http://fxmlparsers.in.net/VilkaDB/?id=tmdb&tid=777443&media_type=movie",
+      "logo_30x30": "http://fxmlparsers.in.net/VilkaDB/?wimg=http%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw200%2FyoxaghGvZ0L0zJi2UdgJfb8zqTr.jpg"
+},
   ]
 }
