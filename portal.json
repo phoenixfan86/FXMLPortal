@@ -1,21 +1,11 @@
-{
-  "fxml": "This page contains FXML code!",
-  "cachetime": "86400",
-  "title": "Мій український портал",
-  "typeList": "start",
-  "channels": [
-
-{
-      "title": "Электрический штат",
-      "infolink": "https://www.themoviedb.org/movie/777443",
-      "description": "6.6</span> фантастика</span> 2025</span>",
-      "template": "<div>$description</div><div>$title</div></div>",
-      "position": "html",
-      "br": "1",
-      "before": "<div>",
-      "noaddbr": "1",
-      "playlist_url": "https://ashdi.vip/vod/35559?",
-      "logo_30x30": "https://uakino.me/uploads/posts/2019-01/1547313637-1.jpg"
-},
-  ]
-}
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <title>Тестовий портал</title>
+    <typeList>start</typeList>
+    <playlist>
+        <title>Мій перший канал</title>
+        <playlist_urlhttps://ashdi.vip/video23/1/new2/avatar.the.last.airbender_s1/avatar.the.last.airbender.2005.s01e01.720p.bdrip.h264hurtom_35559/hls/BKiPlHaPlPtdkgvhB4kh/index.m3u8</playlist_url>
+        <image>	https://uakino.me/uploads/posts/2019-01/1547313637-1.jpg</image>
+        <description>Тестовий український канал</description>
+    </playlist>
+</items>
