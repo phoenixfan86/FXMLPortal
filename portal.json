@@ -1,0 +1,20 @@
+{
+  "fxml": "This page contains FXML code!",
+  "cachetime": "86400",
+  "title": "Мій український портал",
+  "typeList": "start",
+  "channels": [
+    {
+      "title": "Аватар: останній захисник",
+      "infolink": "",
+      "description": "Фільм українською мовою",
+      "template": "$description</div>$title</div></div>",
+      "position": "html",
+      "br": "1",
+      "before": "",
+      "noaddbr": "1",
+      "playlist_url": "https://ashdi.vip/video23/1/new2/avatar.the.last.airbender_s1/avatar.the.last.airbender.2005.s01e01.720p.bdrip.h264hurtom_35559/hls/BKiPlHaPlPtdkgvhB4kh/index.m3u8",
+      "logo_30x30": "https://uakino.me/uploads/mini/serial/82/7e789bccfd7662a1606e3f87b2fa9c.webp"
+    },
+  ]
+}
